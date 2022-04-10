@@ -6,13 +6,16 @@
 // //     }
 // // }
 // // 함수('홍길동입니다')
+
 // // function 글자(x : number | string) : number{
 // //     return x.toString().length
 // // }
 // // console.log(글자(234))
+
 // function 결혼(money:number, house:boolean, charm: string) : string|void{
 //     let score:number = 0
 //     score += money
+
 //     if(house === true){
 //         score += 500
 //     }else {

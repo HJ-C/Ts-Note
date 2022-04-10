@@ -1,4 +1,3 @@
-"use strict";
 // 1. Narrowing
 // function 함수(x: number | string){
 //     if(typeof x === 'number'){
